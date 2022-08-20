@@ -16,6 +16,9 @@
 1. https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?crid=12D27Y014O11A&keywords=refactoring&qid=1660824282&sprefix=refactorin%2Caps%2C265&sr=8-1
 2. https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?crid=3S61HXN630S3A&keywords=clean+code&qid=1660824315&sprefix=clean+co%2Caps%2C244&sr=8-1 
 
+꼭 볼 것!!
+https://youtu.be/3OgbQOsW61Y?t=779
+
 ### 3.4. Identifying the Best Point of Attack
 - 현재 코드의 큰 문제점은 switch 의 일부 브랜치들이 bottle / bottles 같은 word만 다르고 내용이 거의 같다 -> 코드 중복이 존재
 - 코드 중복을 제거하는 것과 코드에 OCP를 적용할 수 있게 하는 것과는 직접적인 관계가 없다.
